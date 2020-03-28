@@ -22,3 +22,7 @@ npm install react-icons
 instalar rotas
 
 npm install react-router-dom
+
+cliente http
+
+npm install axios
